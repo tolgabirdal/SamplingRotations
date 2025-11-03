@@ -3,9 +3,9 @@ Implements various methods for sampling from SO(3) in Python and compares them.
 
 Here are the papers chosen to be implemented:
 
-[**Uniform**] Marsaglia. *Choosing a point from the surface of a sphere*. The Annals of Mathematical Statistics 2972. 
+[**Uniform**] Marsaglia. *Choosing a point from the surface of a sphere*. The Annals of Mathematical Statistics 2972. [(paper link)](https://projecteuclid.org/journalArticle/Download?urlId=10.1214%2Faoms%2F1177692644)
 
-[**Diaconis**] Diaconis, Holmes & Shahshahani. *Sampling from a manifold*. In Advances in modern statistical theory and applications 2013.
+[**Diaconis**] Diaconis, Holmes & Shahshahani. *Sampling from a manifold*. In Advances in modern statistical theory and applications 2013. [(paper link)](https://arxiv.org/pdf/1206.6913)
 
 [**Icosehedron**] Recursively subdiving an Icosahedron.
 
